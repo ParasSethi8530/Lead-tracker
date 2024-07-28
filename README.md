@@ -13,9 +13,11 @@ The Lead Tracker Chrome Extension is a powerful tool built using HTML, CSS, and 
 
 Check out this short demo video to see the Lead Tracker Chrome Extension in action:
 
+https://github.com/user-attachments/assets/8ebe98b0-6410-4bb8-891f-c3e3581d264d
 
+Below is the live demo link that hoe it is look like:
 
-
+https://chrome-extension-lead-tracker-js.netlify.app
 
 ## Screenshots
 
