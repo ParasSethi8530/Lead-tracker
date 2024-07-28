@@ -22,7 +22,9 @@ Check out this short demo video to see the Lead Tracker Chrome Extension in acti
 Here are some screenshots showcasing the Lead Tracker Chrome Extension:
 
 ![1](https://github.com/user-attachments/assets/b1cc4edb-0818-4152-8d9d-dc4aff511727)
+
 ![2](https://github.com/user-attachments/assets/106a983f-2b5a-442e-94ca-e322aeafae0c)
+
 ![3](https://github.com/user-attachments/assets/e5c85305-6597-436d-ab99-f3b7444b3172)
 
 
