@@ -2,8 +2,6 @@
 
 The Lead Tracker Chrome Extension is a powerful tool built using HTML, CSS, and JavaScript. It allows users to save input and track tab links within the Google Chrome browser.
 
-![Lead Tracker Chrome Extension](extension-screenshot.png)
-
 ## Features
 
 - *Input Field*: The extension provides a space for users to type and save input or descriptions associated with leads or websites.
@@ -15,17 +13,13 @@ The Lead Tracker Chrome Extension is a powerful tool built using HTML, CSS, and 
 
 Check out this short demo video to see the Lead Tracker Chrome Extension in action:
 
-[![Lead Tracker Demo Video](demo-video-thumbnail.png)](https://youtu.be/demo-video-url)
+
 
 ## Screenshots
 
 Here are some screenshots showcasing the Lead Tracker Chrome Extension:
 
-![Screenshot 1](screenshot-1.png)
-Caption for Screenshot 1
 
-![Screenshot 2](screenshot-2.png)
-Caption for Screenshot 2
 
 ## Usage
 
@@ -44,7 +38,7 @@ The Lead Tracker Chrome Extension can be customized according to your preference
 
 To install the Lead Tracker Chrome Extension, follow these steps:
 
-1. Download the extension files or clone the repository from [GitHub](https://github.com/your-repo).
+1. Download the extension files or clone the repository from GitHub.
 2. Open Google Chrome and go to the extensions page by typing "chrome://extensions" in the address bar.
 3. Enable the "Developer mode" toggle switch in the top right corner.
 4. Click on the "Load unpacked" button and select the folder containing the extension files.
